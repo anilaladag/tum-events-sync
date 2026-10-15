@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TYPO3/NONSGML Calendarize//EN
+BEGIN:VEVENT
+UID:calendarize-master-in-information-engineering-info-session-15102026
+DTSTAMP:20260924T091137Z
+DTSTART:20261015T130000Z
+DTEND:20261015T140000Z
+SUMMARY:Master in Information Engineering - Info Session
+DESCRIPTION:You are interested in the Master in Information Engineering at
+  TUM Campus Heilbronn? Don't miss out on the opportunity to learn more abo
+ ut the program from our experts and have your questions answered!\n\nDurin
+ g the Info Session\, you'll have the opportunity to gather all the necessa
+ ry information\, ask your individual questions\, and learn about the admis
+ sion process.\n\nTo take part\, please register using the form below. You 
+ will then receive an email with all the information about the info session
+ .
+X-ALT-DESC;FMTTYPE=text/html:<p>You are interested in the <a href="t3://pa
+ ge?uid=709"><strong>Master in Information Engineering</strong></a> at TUM 
+ Campus Heilbronn? Don't miss out on the opportunity to learn more about th
+ e program from our experts and have your questions answered!</p>\n\n<p>Dur
+ ing the Info Session\, you'll have the opportunity to gather all the neces
+ sary information\, ask your individual questions\, and learn about the adm
+ ission process.</p>\n\n<p>To take part\, please register using the form be
+ low. You will then receive an email with all the information about the inf
+ o session.</p>
+LOCATION:online
+END:VEVENT
+END:VCALENDAR
