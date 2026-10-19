@@ -370,6 +370,16 @@
       "BEGIN:VEVENT\r\nSUMMARY:Successful Companies in Uncertain Times\r\nDTSTART:20261014T170000Z\r\nDTEND:20261015T153000Z\r\nDTSTAMP:20260729T131322Z\r\nUID:calendarize-strategic-leadership-in-a-fragmented-world\r\nDESCRIPTION:Registration is now open for the conference “Strategic Leade\r\n rship in a Fragmented World\\,” taking place on October 14 and 15\\, 2026\r\n \\, at TUM Campus Heilbronn.\r\nLOCATION:FORUM Bildungscampus\\, Bildungscampus 1\\, 74076 Heilbronn\\, Germa\r\n ny\r\nX-ALT-DESC;FMTTYPE=text/html:<p>Registration is now open for the conferenc\r\n e “Strategic Leadership in a Fragmented World\\,” taking place on Octob\r\n er 14 and 15\\, 2026\\, at TUM Campus Heilbronn.</p>\r\nEND:VEVENT\r\n"
     ]
   },
+  "https://chn.tum.de/event/event/tum-sports-health-day-2026": {
+    "ends": "2026-11-05T20:00:00+00:00",
+    "feeds": [
+      "tum-events"
+    ],
+    "url": "https://chn.tum.de/event/event/tum-sports-health-day-2026",
+    "vevents": [
+      "BEGIN:VEVENT\r\nSUMMARY:TUM Sports & Health Day\r\nDTSTART:20261105T170000Z\r\nDTEND:20261105T200000Z\r\nDTSTAMP:20261019T114129Z\r\nUID:calendarize-tum-sports-health-day-2026\r\nDESCRIPTION:Experience sport\\, health and community on a day full of actio\r\n n and inspiration! \\nDiscover Your Strength\\, Resilience & Well-Being! Ho\r\n w resilient are you? And what can your body tell you about your overall he\r\n alth? Join us for an inspiring evening full of movement\\, challenges\\, and\r\n  fun! Discover practical ways to calm your nervous system through breathin\r\n g\\, find out what your grip strength reveals about your health\\, test your\r\n  balance and stability\\, and see how powerful your jump is.\\nWhether you w\r\n ant to work out\\, learn something new or just have fun - this day is made \r\n for you! \\n\\nRegister for the TUM Sports & Health Day using the form belo\r\n w and tell us which sports you would like to try out. You will then receiv\r\n e an e-mail with all the information and the agenda. \r\nLOCATION:Josef-Schwarz-Sporthalle in der Josef-Schwarz-Schule\\, Erich-Mend\r\n elsohn-Straße 1\\, 74076 Heilbronn\r\nX-ALT-DESC;FMTTYPE=text/html:<p>Experience sport\\, health and community on\r\n  a day full of action and inspiration!&nbsp\\;</p>\\n<p>Discover Your Streng\r\n th\\, Resilience &amp\\; Well-Being! How resilient are you? And what can you\r\n r body tell you about your overall health? Join us for an inspiring evenin\r\n g full of movement\\, challenges\\, and fun! Discover practical ways to calm\r\n  your nervous system through breathing\\, find out what your grip strength \r\n reveals about your health\\, test your balance and stability\\, and see how \r\n powerful your jump is.</p>\\n<p>Whether you want to work out\\, learn someth\r\n ing new or just have fun - this day is made for you!&nbsp\\;</p>\\n\\n<p>Regi\r\n ster for the TUM Sports &amp\\; Health Day using the form below and tell us\r\n  which sports you would like to try out. You will then receive an e-mail w\r\n ith all the information and the agenda.&nbsp\\;</p>\r\nEND:VEVENT\r\n"
+    ]
+  },
   "https://chn.tum.de/event/event/upskill-summit-2026": {
     "ends": "2026-11-12T16:00:00+00:00",
     "feeds": [
