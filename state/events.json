@@ -69,6 +69,16 @@
       "BEGIN:VEVENT\r\nSUMMARY:Bank account opening with Sparkasse Heilbronn\r\nDTSTART:20261023T080000Z\r\nDTEND:20261023T090000Z\r\nDTSTAMP:20260729T132529Z\r\nUID:calendarize-bank-account-opening-with-sparkasse-heilbronn-20261023-1\r\nDESCRIPTION:Through the Service Point\\, you can open a current bank accoun\r\n t or blocked account if you don't have a German bank account yet.\\nRegiste\r\n r with your TUM email address at servicepoint@chn.tum.de and please provid\r\n e your full name\\, matriculation number\\, and country of origin.\r\nLOCATION:Meeting point: at the Service Point or directly at Sparkasse Heil\r\n bronn\r\nX-ALT-DESC;FMTTYPE=text/html:<p><span lang=\"EN-US\" dir=\"ltr\">Through the S\r\n ervice Point\\, you can open a current bank account or blocked account if y\r\n ou don't have a German bank account yet.</span></p>\\n<p>Register with your\r\n  TUM email address at <a href=\"mailto:servicepoint@chn.tum.de\">servicepoin\r\n t@chn.tum.de</a> and please provide your full name\\, matriculation number\r\n \\, and country of origin.</p>\r\nEND:VEVENT\r\n"
     ]
   },
+  "https://chn.tum.de/event/event/bank-account-opening-with-sparkasse-heilbronn-20261030-2": {
+    "ends": "2026-10-30T10:00:00+00:00",
+    "feeds": [
+      "tum-events-for-freshers"
+    ],
+    "url": "https://chn.tum.de/event/event/bank-account-opening-with-sparkasse-heilbronn-20261030-2",
+    "vevents": [
+      "BEGIN:VEVENT\r\nSUMMARY:Bank account opening with Sparkasse Heilbronn\r\nDTSTART:20261030T090000Z\r\nDTEND:20261030T100000Z\r\nDTSTAMP:20260729T132529Z\r\nUID:calendarize-bank-account-opening-with-sparkasse-heilbronn-20261030-2\r\nDESCRIPTION:Through the Service Point\\, you can open a current bank accoun\r\n t or blocked account if you don't have a German bank account yet.\\nRegiste\r\n r with your TUM email address at servicepoint@chn.tum.de and please provid\r\n e your full name\\, matriculation number\\, and country of origin.\r\nLOCATION:Meeting point: at the Service Point or directly at Sparkasse Heil\r\n bronn\r\nX-ALT-DESC;FMTTYPE=text/html:<p><span lang=\"EN-US\" dir=\"ltr\">Through the S\r\n ervice Point\\, you can open a current bank account or blocked account if y\r\n ou don't have a German bank account yet.</span></p>\\n<p>Register with your\r\n  TUM email address at <a href=\"mailto:servicepoint@chn.tum.de\">servicepoin\r\n t@chn.tum.de</a> and please provide your full name\\, matriculation number\r\n \\, and country of origin.</p>\r\nEND:VEVENT\r\n"
+    ]
+  },
   "https://chn.tum.de/event/event/buerger-uni-11112026": {
     "ends": "2026-11-11T19:00:00+00:00",
     "feeds": [
