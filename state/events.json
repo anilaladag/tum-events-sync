@@ -230,13 +230,13 @@
     ]
   },
   "https://chn.tum.de/event/event/exhibition-thomas-mann": {
-    "ends": "2026-12-03T00:00:00+00:00",
+    "ends": "2026-12-10T13:00:00+00:00",
     "feeds": [
       "tum-events"
     ],
     "url": "https://chn.tum.de/event/event/exhibition-thomas-mann",
     "vevents": [
-      "BEGIN:VEVENT\r\nSUMMARY:Exhibition Thomas Mann – In the Burning Landscape of Democracy a\r\n nd AI TO EYE  \r\nDTSTART;VALUE=DATE:20261106\r\nDTEND;VALUE=DATE:20261203\r\nDTSTAMP:20261029T124743Z\r\nUID:calendarize-exhibition-thomas-mann\r\nDESCRIPTION:For the first time\\, the Technical University of Munich and ET\r\n H Zurich are jointly presenting the exhibitions Thomas Mann – In the Bur\r\n ning Landscape of Democracy and AI TO EYE at the Bildungscampus Heilbronn.\r\nLOCATION:Bildungscampus Heilbronn\\, hip-Turm\\, Edisonstraße 15\\, Heilbron\r\n n\r\nX-ALT-DESC;FMTTYPE=text/html:<p>For the first time\\, the Technical Univers\r\n ity of Munich and ETH Zurich are jointly presenting the exhibitions Thomas\r\n  Mann – In the Burning Landscape of Democracy and AI TO EYE at the Bildu\r\n ngscampus Heilbronn.</p>\r\nEND:VEVENT\r\n"
+      "BEGIN:VEVENT\r\nSUMMARY:Exhibition Thomas Mann – In the Burning Landscape of Democracy a\r\n nd AI TO EYE  \r\nDTSTART:20261106T103000Z\r\nDTEND:20261210T130000Z\r\nDTSTAMP:20261030T134207Z\r\nUID:calendarize-exhibition-thomas-mann\r\nDESCRIPTION:For the first time\\, the Technical University of Munich and ET\r\n H Zurich are jointly presenting the exhibitions Thomas Mann – In the Bur\r\n ning Landscape of Democracy and AI TO EYE at the Bildungscampus Heilbronn.\r\nLOCATION:Bildungscampus Heilbronn\\, hip-Turm\\, Edisonstraße 15\\, Heilbron\r\n n\r\nX-ALT-DESC;FMTTYPE=text/html:<p>For the first time\\, the Technical Univers\r\n ity of Munich and ETH Zurich are jointly presenting the exhibitions Thomas\r\n  Mann – In the Burning Landscape of Democracy and AI TO EYE at the Bildu\r\n ngscampus Heilbronn.</p>\r\nEND:VEVENT\r\n"
     ]
   },
   "https://chn.tum.de/event/event/graduation-ceremony-2026": {
