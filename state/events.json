@@ -370,6 +370,16 @@
       "BEGIN:VEVENT\r\nSUMMARY:Smart Lunch Break: AI Agent Infrastructure and the Role of Blockch\r\n ain in Artificial Intelligence\r\nDTSTART:20261103T110000Z\r\nDTEND:20261103T113000Z\r\nDTSTAMP:20261015T120617Z\r\nUID:calendarize-smart-lunch-break-ai-agent-infrastructure-and-the-role-of-\r\n blockchain-in-ai\r\nDESCRIPTION:As part of the AI TRAQC initiative\\, this new event series off\r\n ers the opportunity to gain exciting insights into various aspects of AI a\r\n nd discuss and analyze them together\\, once a month.\\n\\nTopic: AI Agent In\r\n frastructure and the Role of Blockchain in Artificial Intelligence\\n\\nExpe\r\n rt: Patrick Tobler \r\nLOCATION:online\r\nX-ALT-DESC;FMTTYPE=text/html:<p>As part of the <a href=\"t3://page?uid=1084\r\n \"><strong>AI TRAQC</strong></a> initiative\\, this new event series offers \r\n the opportunity to gain exciting insights into various aspects of AI and d\r\n iscuss and analyze them together\\, once a month.</p>\\n\\n<p><strong>Topic: \r\n </strong>AI Agent Infrastructure and the Role of Blockchain in Artificial \r\n Intelligence</p>\\n\\n<p><strong>Expert: </strong>Patrick Tobler&nbsp\\;</p>\r\nEND:VEVENT\r\n"
     ]
   },
+  "https://chn.tum.de/event/event/smart-lunch-break-ai-agents-in-action": {
+    "ends": "2026-12-01T11:30:00+00:00",
+    "feeds": [
+      "tum-events"
+    ],
+    "url": "https://chn.tum.de/event/event/smart-lunch-break-ai-agents-in-action",
+    "vevents": [
+      "BEGIN:VEVENT\r\nSUMMARY:Smart Lunch Break: AI Agents in Action: Providing Knowledge and Se\r\n tting Boundaries\r\nDTSTART:20261201T110000Z\r\nDTEND:20261201T113000Z\r\nDTSTAMP:20261102T120933Z\r\nUID:calendarize-smart-lunch-break-ai-agents-in-action\r\nDESCRIPTION:As part of the AI TRAQC initiative\\, this new event series off\r\n ers the opportunity to gain exciting insights into various aspects of AI a\r\n nd discuss and analyze them together\\, once a month.\\n\\nTopic: AI Agents i\r\n n Action: Providing Knowledge and Setting Boundaries\\n\\nExpert: Prof. Dr. \r\n Carsten Lanquillon\r\nLOCATION:online\r\nX-ALT-DESC;FMTTYPE=text/html:<p>As part of the <a href=\"t3://page?uid=1084\r\n \"><strong>AI TRAQC</strong></a> initiative\\, this new event series offers \r\n the opportunity to gain exciting insights into various aspects of AI and d\r\n iscuss and analyze them together\\, once a month.</p>\\n\\n<p><strong>Topic: \r\n </strong>AI Agents in Action: Providing Knowledge and Setting Boundaries</\r\n p>\\n\\n<p><strong>Expert: </strong>Prof. Dr. Carsten Lanquillon</p>\r\nEND:VEVENT\r\n"
+    ]
+  },
   "https://chn.tum.de/event/event/statewide-study-information-day-2026": {
     "ends": "2026-11-18T11:00:00+00:00",
     "feeds": [
